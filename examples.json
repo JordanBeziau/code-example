@@ -1,0 +1,80 @@
+{
+  "php": [
+    {
+      "name": "REST API",
+      "slug": "rest-api-examples",
+      "version": "3.1.2",
+      "link": "https://github.com/LyraNetwork/krypton-php-sdk",
+      "brand": "payzen"
+    },
+    {
+      "name": "Form Payment",
+      "slug": "form-payment",
+      "version": "",
+      "link": "",
+      "brand": "payzen"
+    },
+    {
+      "name": "Form Payment SDK",
+      "slug": "form-payment-sdk",
+      "version": "0.2",
+      "link": "https://github.com/payzen/vads-payment-php",
+      "brand": "payzen"
+    },
+    {
+      "name": "Webservices ws-v5",
+      "slug": "webservices-ws-v5",
+      "version": "1.4",
+      "link": "https://github.com/payzen/soap-v5-payment-exemple-php",
+      "brand": "payzen"
+    },
+    {
+      "name": "Webservices ws-v4",
+      "slug": "webservices-ws-v4",
+      "version": "",
+      "link": "",
+      "brand": "payzen"
+    }
+  ],
+  "python": [
+    {
+      "name": "Form Payment",
+      "slug": "form-payment-python",
+      "version": "3.4",
+      "link": "https://github.com/payzen/vads-payment-python",
+      "brand": "payzen"
+    },
+    {
+      "name": "Webservices ws-v5",
+      "slug": "webservices-ws-v5-python",
+      "version": "1.4",
+      "link": "https://github.com/payzen/ws-v5-createPayment-python",
+      "brand": "payzen"
+    }
+  ],
+  "java": [
+    {
+      "name": "Webservices v5 - SDK",
+      "slug": "webservices-v5-sdk",
+      "version": "1.0.6",
+      "link": "https://github.com/payzen/payzen-webservices-v5-sdk-java",
+      "brand": "payzen"
+    },
+    {
+      "name": "Webservices v5",
+      "slug": "webservices-v5-java",
+      "version": "1.5",
+      "link": "https://github.com/payzen/payzen-soapwebservice-java-example",
+      "brand": "payzen"
+    }
+  ],
+  "asp": [
+    {
+      "name": "Form Payment",
+      "slug": "form-payment-asp",
+      "version": "https://github.com/payzen/vads-payment-asp",
+      "link": "",
+      "brand": "payzen"
+    }
+  ]
+}
