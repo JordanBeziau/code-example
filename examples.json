@@ -2,18 +2,11 @@
   "php": [
     {
       "name": "REST API",
-      "slug": "rest-api-examples",
+      "slug": "rest-api",
       "version": "3.1.2",
       "link": "https://github.com/LyraNetwork/krypton-php-sdk",
       "zip": "",
-      "label": "payzen",
-      "lang": {
-        "fr-FR": "",
-        "pt-BR": "",
-        "es-ES": "",
-        "de-DE": "",
-        "in": ""
-      }
+      "label": "payzen"
     },
     {
       "name": "Form Payment",
