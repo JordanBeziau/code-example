@@ -9,6 +9,14 @@
       "label": "payzen"
     },
     {
+      "name": "Form Payment 2",
+      "slug": "form-payment",
+      "version": "",
+      "link": "",
+      "zip": "/files//integration/payment_form_payzen_1.0f.zip",
+      "label": "payzen"
+    },
+    {
       "name": "Form Payment",
       "slug": "form-payment",
       "version": "",
