@@ -2,7 +2,6 @@
   "php": [
     {
       "name": "REST API",
-      "slug": "rest-api",
       "version": "3.1.2",
       "link": "https://github.com/LyraNetwork/krypton-php-sdk",
       "zip": "",
@@ -11,7 +10,6 @@
     },
     {
       "name": "Form Payment 2",
-      "slug": "form-payment",
       "version": "",
       "link": "",
       "zip": "/files//integration/payment_form_payzen_1.0f.zip",
@@ -20,7 +18,6 @@
     },
     {
       "name": "Form Payment",
-      "slug": "form-payment",
       "version": "",
       "link": "",
       "zip": "/files//integration/payment_form_payzen_1.0f.zip",
@@ -29,7 +26,6 @@
     },
     {
       "name": "Form Payment SDK",
-      "slug": "form-payment-sdk",
       "version": "0.2",
       "link": "https://github.com/payzen/vads-payment-php",
       "zip": "https://github.com/payzen/vads-payment-php/archive/master.zip",
@@ -38,7 +34,6 @@
     },
     {
       "name": "Webservices ws-v5",
-      "slug": "webservices",
       "version": "1.4",
       "link": "https://github.com/payzen/soap-v5-payment-exemple-php",
       "zip":
@@ -48,7 +43,6 @@
     },
     {
       "name": "Webservices ws-v4",
-      "slug": "webservices",
       "version": "",
       "link": "",
       "zip": "/files/integration/PayZen_pack_php_ws-v4.zip",
@@ -59,7 +53,6 @@
   "python": [
     {
       "name": "Form Payment",
-      "slug": "form-payment-python",
       "version": "3.4",
       "link": "https://github.com/payzen/vads-payment-python",
       "zip": "https://github.com/payzen/vads-payment-python/archive/master.zip",
@@ -68,7 +61,6 @@
     },
     {
       "name": "Webservices ws-v5",
-      "slug": "webservices",
       "version": "1.4",
       "link": "https://github.com/payzen/ws-v5-createPayment-python",
       "zip":
@@ -80,7 +72,6 @@
   "java": [
     {
       "name": "Webservices v5 - SDK",
-      "slug": "webservices",
       "version": "1.0.6",
       "link": "https://github.com/payzen/payzen-webservices-v5-sdk-java",
       "zip":
@@ -90,7 +81,6 @@
     },
     {
       "name": "Webservices v5",
-      "slug": "webservices",
       "version": "1.5",
       "link": "https://github.com/payzen/payzen-soapwebservice-java-example",
       "zip":
@@ -102,9 +92,8 @@
   "asp": [
     {
       "name": "Form Payment",
-      "slug": "form-payment-asp",
-      "version": "https://github.com/payzen/vads-payment-asp",
-      "link": "",
+      "version": "",
+      "link": "https://github.com/payzen/vads-payment-asp",
       "zip": "https://github.com/payzen/vads-payment-asp/archive/master.zip",
       "label": "payzen",
       "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
