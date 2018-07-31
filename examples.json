@@ -6,7 +6,7 @@
       "link": "https://github.com/LyraNetwork/krypton-php-sdk",
       "zip": "",
       "label": "payzen",
-      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES", "in"]
+      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
     },
     {
       "name": "Form Payment 2",
