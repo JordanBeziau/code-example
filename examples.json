@@ -77,7 +77,7 @@
       "zip":
         "https://github.com/payzen/payzen-webservices-v5-sdk-java/archive/master.zip",
       "label": "payzen",
-      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES"]
+      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "es-ES", "in"]
     },
     {
       "name": "Webservices v5",
@@ -90,6 +90,16 @@
     }
   ],
   "asp": [
+    {
+      "name": "Form Payment",
+      "version": "",
+      "link": "https://github.com/payzen/vads-payment-asp",
+      "zip": "https://github.com/payzen/vads-payment-asp/archive/master.zip",
+      "label": "payzen",
+      "display": ["fr-FR", "en-EN", "de-DE", "pt-BR", "lat", "in", "es-ES"]
+    }
+  ],
+  "asp2": [
     {
       "name": "Form Payment",
       "version": "",
